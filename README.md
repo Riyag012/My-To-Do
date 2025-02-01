@@ -109,5 +109,5 @@ This is a simple To-Do List web application built using Flask, Jinja, Python, an
 - `requirements.txt`: List of project dependencies.
 
 ## Screenshot for Reference
- ![Before Button Click](ss/ss_todo1.png)
- ![Before Button Click](ss/ss_todo2.png)
+ ![When No Entries](ss/ss_todo1.png)
+ ![After Entries](ss/ss_todo2.png)
