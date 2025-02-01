@@ -7,6 +7,7 @@
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [App Structure](#app-structure)
+6. [Screenshot for Reference](#screenshot-for-reference)
 
 ---
 
@@ -106,3 +107,7 @@ This is a simple To-Do List web application built using Flask, Jinja, Python, an
 - `templates/`: Contains the HTML templates, rendered by Jinja.
 - `static/`: May contain static assets like CSS and JavaScript files.
 - `requirements.txt`: List of project dependencies.
+
+## Screenshot for Reference
+ ![Before Button Click](ss/ss_todo1.png)
+ ![Before Button Click](ss/ss_todo2.png)
